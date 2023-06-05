@@ -28,4 +28,4 @@ jobs:
             --region ap-northeast-2 \
             s3://fe-63-fastfox24-s3 \
             --delete
-        working-directory: ./my-agora-states-client
+        working-directory: .
